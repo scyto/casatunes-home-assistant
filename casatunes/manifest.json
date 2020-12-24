@@ -1,0 +1,8 @@
+{
+  "domain": "casatunes",
+  "name": "CasaTunes",
+  "documentation": "https://www.home-assistant.io/components/casatunes",
+  "dependencies": [],
+  "codeowners": ["@resoai"],
+  "requirements": ["casatunes==0.0.5"]
+}
